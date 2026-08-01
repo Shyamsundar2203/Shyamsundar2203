@@ -1,41 +1,47 @@
-<div align="center">
+<!--  Shyamsundar2203 GitHub Profile README  -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)"  srcset="dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="light.svg">
-  <img src="dark.svg" alt="Shyamsundar Sharma banner" width="100%"/>
+  <img src="dark.svg" alt="Shyamsundar Sharma — AI/ML Engineer" width="100%"/>
 </picture>
 
-<br/><br/>
+<br/>
 
-# Hi, I'm Shyamsundar Sharma 👋
+<div align="center">
 
-### AI/ML Engineer · Data Scientist · Python Developer
+### 🤖 AI/ML Engineer &nbsp;·&nbsp; Data Scientist &nbsp;·&nbsp; Python Developer
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamsundar-sharma-ai)
-[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsundarsharma2203@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=github&logoColor=white)](https://shyamsundar2203.github.io)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Shyamsundar%20Sharma-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamsundar-sharma-ai)
+[![Email](https://img.shields.io/badge/Email-shyamsundarsharma2203%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsundarsharma2203@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-shyamsundar2203.github.io-10B981?style=for-the-badge&logo=github&logoColor=white)](https://shyamsundar2203.github.io)
 
 </div>
 
 ---
 
-## About Me
+## 🧠 About
 
-B.Tech CSE (AI/ML) student at Vivekananda Global University · CGPA **8.73/10** (rising every semester)
+Results-driven **B.Tech CSE (AI/ML)** student at Vivekananda Global University (NAAC A+), running **3 concurrent internships** in Machine Learning, Deep Learning, and Data Analytics.
+I build **end-to-end ML pipelines** — data preprocessing, EDA, feature engineering, model training, and deployment — using Python, PyTorch, TensorFlow, and Scikit-learn.
 
-Running **3 concurrent internships** in ML, Deep Learning, and Data Analytics.
-I build end-to-end ML systems — from raw data to deployed models.
-
-- 🎯 **95%+ recall** on fraud detection with <1% class imbalance
-- 🌾 **~87% accuracy** on crop/fertilizer recommendation
-- ⚡ **~35% faster** data processing · **~50% faster** model training
+> **95%+ recall** in fraud detection &nbsp;·&nbsp; **~89% model accuracy** &nbsp;·&nbsp; **~35% faster** data processing &nbsp;·&nbsp; **~50% faster** model training
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
+
+**Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
+![C/C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![HTML/CSS](https://img.shields.io/badge/HTML%2FCSS-E34F26?style=flat-square&logo=html5&logoColor=white)
+
+**AI / ML / Data**
+
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
@@ -43,72 +49,127 @@ I build end-to-end ML systems — from raw data to deployed models.
 ![XGBoost](https://img.shields.io/badge/XGBoost-189A2F?style=flat-square)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
+
+**Backend / Infra / Tools**
+
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2FC%2B%2B-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
 
 ---
 
-## Featured Projects
+## 🚀 Featured Projects
 
-### 🌾 [AI for Farmers — Crop & Fertilizer Recommendation](https://github.com/Shyamsundar2203/ai-for-farmers)
-> Python · Scikit-learn · Flask · Weather API · NLP · HTML/CSS
+<table>
+<tr>
 
-- **~87% model accuracy** on crop/fertilizer prediction from soil + live weather data
-- Real-time Weather API for location-aware recommendations
-- Local-language NLP chatbot for rural accessibility
+<td width="33%" valign="top">
+
+### 🌾 AI for Farmers
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-A78BFA?style=flat-square)
+
+**Crop & Fertilizer Recommendation System**
+- 🎯 **~87% accuracy** from soil + live weather data
+- 🌦️ Real-time Weather API integration
+- 🗣️ Local-language NLP chatbot for rural users
+
+[**View Repo →**](https://github.com/Shyamsundar2203/ai-for-farmers)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 💳 Fraud Detection
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SMOTE](https://img.shields.io/badge/SMOTE-10B981?style=flat-square)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
+
+**ML Classification Model**
+- 🔍 **95%+ recall** with <1% class imbalance
+- ⚖️ SMOTE oversampling pipeline
+- ✂️ Threshold tuning to cut false positives
+
+[**View Repo →**](https://github.com/Shyamsundar2203/fraud-detection)
+
+</td>
+
+<td width="33%" valign="top">
+
+### 🧘 Study Tracker AI
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![NLP](https://img.shields.io/badge/NLP-A78BFA?style=flat-square)
+![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chart.js&logoColor=white)
+
+**Wellness AI Platform**
+- 📊 **10+ behavioural metrics** dashboard
+- 🌐 Bilingual EN/HI mood NLP chatbot
+- 🗃️ SQLite + Flask REST backend
+
+[**View Repo →**](https://github.com/Shyamsundar2203/study-tracker-ai)
+
+</td>
+
+</tr>
+</table>
+
+> ⚠️ Push repos with exact names: `ai-for-farmers` · `fraud-detection` · `study-tracker-ai`
 
 ---
 
-### 💳 [Credit Card Fraud Detection](https://github.com/Shyamsundar2203/fraud-detection)
-> Python · Scikit-learn · Pandas · SMOTE · Imbalanced Learning
-
-- **95%+ recall** handling extreme <1% class imbalance via SMOTE
-- Threshold tuning to minimise false positives in production
-- Full EDA pipeline with feature engineering
-
----
-
-### 🧘 [Study Tracker & Meditation Suggestion App](https://github.com/Shyamsundar2203/study-tracker-ai)
-> Python · Flask · NLP · SQLite · Chart.js · JavaScript
-
-- Analyses **10+ behavioural metrics** via real-time dashboard
-- Bilingual (English/Hindi) mood-based NLP chatbot
-- SQLite persistence + REST backend
-
----
-
-## Experience
+## 💼 Experience
 
 | Role | Company | Duration |
 |------|---------|----------|
-| 🤖 AI/ML Intern | UptoSkills *(Remote)* | May 2026 – Present |
-| 📊 Data Analytics Intern | DigiSamaksh Pvt. Ltd. *(Remote)* | Jun 2026 – Present |
-| 🤖 AI/ML Intern | Labmentix Pvt. Ltd. *(ISO 9001:2015)* 🏅 LoR | Jun 2025 – Dec 2025 |
+| 🤖 **AI/ML Intern** | UptoSkills *(Remote)* | May 2026 – Present |
+| 📊 **Data Analytics Intern** | DigiSamaksh Pvt. Ltd. *(Remote)* | Jun 2026 – Present |
+| 🤖 **AI/ML Intern** | Labmentix Pvt. Ltd. *(ISO 9001:2015)* 🏅 LoR | Jun 2025 – Dec 2025 |
 
 ---
 
-## GitHub Stats
+## 🎓 Education
+
+**B.Tech CSE — AI/ML Specialization** · Vivekananda Global University (NAAC A+) · 2023–2027
+
+| Sem 1 | Sem 2 | Sem 3 | Sem 4 |
+|:-----:|:-----:|:-----:|:-----:|
+| 8.18 | 8.48 | 8.55 | **8.73 ↑** |
+
+---
+
+## 🏅 Certifications
+
+`IBM` Machine Learning with Python &nbsp;·&nbsp;
+`IBM` Python for Data Science & AI &nbsp;·&nbsp;
+`IBM` AI For Everyone &nbsp;·&nbsp;
+`IBM` Cybersecurity Tools &nbsp;·&nbsp;
+`IBM` PBEL 2.3 &nbsp;·&nbsp;
+`Simplilearn` Data Science Foundation
+
+---
+
+## 📊 GitHub Stats
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=Shyamsundar2203&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true)
-&nbsp;
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamsundar2203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Shyamsundar2203&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=E2D9F3)
+&nbsp;&nbsp;
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamsundar2203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=E2D9F3)
 
 </div>
 
 ---
 
-## Contribution Graph
+## 🐍 Contribution Graph
 
 <picture>
   <source media="(prefers-color-scheme: dark)"
@@ -119,22 +180,21 @@ I build end-to-end ML systems — from raw data to deployed models.
        alt="Contribution snake" width="100%"/>
 </picture>
 
----
-
-## Certifications
-
-`IBM` Machine Learning with Python &nbsp;·&nbsp;
-`IBM` Python for Data Science & AI &nbsp;·&nbsp;
-`IBM` AI For Everyone &nbsp;·&nbsp;
-`IBM` Cybersecurity Tools &nbsp;·&nbsp;
-`Simplilearn` Data Science Foundation
+> Run the snake workflow once first — Actions tab → Contribution Snake → Run workflow
 
 ---
+
+## 📬 Connect
 
 <div align="center">
 
-📍 Jaipur, Rajasthan, India &nbsp;·&nbsp; B.Tech CSE (AI/ML) 2023–2027
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/shyamsundar-sharma-ai)
+[![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:shyamsundarsharma2203@gmail.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-10B981?style=for-the-badge&logo=github-pages&logoColor=white)](https://shyamsundar2203.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Shyamsundar2203)
 
 **Open to AI/ML Engineer and Data Scientist roles — feel free to reach out.**
+
+📍 Jaipur, Rajasthan, India
 
 </div>

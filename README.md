@@ -18,7 +18,7 @@
 <br/>
 
 <!-- ── TYPING ANIMATION ──────────────────────────────────── -->
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=800&color=A78BFA&center=true&vCenter=true&width=700&lines=AI+%2F+ML+Engineer+%F0%9F%A4%96;Data+Scientist+%F0%9F%93%8A;Python+Developer+%F0%9F%90%8D;Building+Intelligent+Systems+%E2%9A%A1;Open+to+Work+%E2%9C%85)](https://github.com/Shyamsundar2203)
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&repeat=true&width=600&height=45&lines=AI+%2F+ML+Engineer;Data+Scientist;Python+Developer;Building+Intelligent+Systems;Open+to+Work+%E2%80%94+Jaipur%2C+India" alt="Typing SVG"/>
 
 <br/>
 
@@ -337,5 +337,6 @@ roadmap_2025_2026 = {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn)
 
 </div>
+
 
 

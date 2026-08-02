@@ -39,7 +39,7 @@ B.Tech CSE (AI/ML) at **Vivekananda Global University** (NAAC A+) · CGPA **8.73
 - 🎯 **95%+ recall** on fraud detection with <1% class imbalance
 - 🌾 **~87% accuracy** on crop/fertilizer recommendation
 - ⚡ **~35% faster** data processing · **~50% faster** model training
-- 📈 CGPA trend: **8.18 → 8.48 → 8.55 → 8.73** ↑
+- 📈 CGPA trend: **8.18 → 8.48 → 8.55 → 8.73 → 9.23 → 8.62**
 
 ---
 
@@ -143,9 +143,9 @@ B.Tech CSE (AI/ML) at **Vivekananda Global University** (NAAC A+) · CGPA **8.73
 
 **B.Tech CSE — AI/ML** · Vivekananda Global University (NAAC A+) · 2023–2027
 
-| Sem 1 | Sem 2 | Sem 3 | Sem 4 |
-|:-----:|:-----:|:-----:|:-----:|
-| 8.18 | 8.48 | 8.55 | **8.73 ↑** |
+| Sem 1 | Sem 2 | Sem 3 | Sem 4 | Sem 5 | Sem 6 |
+|:-----:|:-----:|:-----:|:-----:|:-----:|:-----:|
+| 8.18 | 8.48 | 8.55 | 8.73 | **9.23** | 8.62 |
 
 ---
 
@@ -255,4 +255,6 @@ current_focus = {
 📍 Jaipur, Rajasthan, India
 
 </div>
+
+
 

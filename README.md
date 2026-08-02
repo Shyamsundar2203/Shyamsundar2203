@@ -254,6 +254,13 @@ class ShyamsundarSharma:
 
 <br/>
 
+<!-- Contributor Stats crosshair — Commits / Issues / PRs / Code Review -->
+<a href="https://github.com/Shyamsundar2203?tab=repositories">
+  <img src="https://github-contributor-stats.vercel.app/api?username=Shyamsundar2203&limit=5&theme=dark_dimmed&combine_all_yearly_contributions=true" alt="Contributor Stats"/>
+</a>
+
+<br/>
+
 <!-- Activity Graph -->
 <a href="https://github.com/Shyamsundar2203/Shyamsundar2203/graphs/commit-activity">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Shyamsundar2203&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=A78BFA&line=22D3EE&point=10B981&area=true&area_color=A78BFA" width="100%" alt="Activity Graph"/>
@@ -330,4 +337,5 @@ roadmap_2025_2026 = {
 ![Footer](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=24&height=100&section=footer&animation=fadeIn)
 
 </div>
+
 

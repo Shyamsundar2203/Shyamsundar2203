@@ -1,7 +1,4 @@
-<!-- ========================================================== -->
-    Shyamsundar2203 — GitHub Profile README
-    Designed for: AI/ML Engineer | Recruiter-optimised | 10/10
-    ========================================================== -->
+
 
 <div align="center">
 

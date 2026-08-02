@@ -183,14 +183,20 @@ B.Tech CSE (AI/ML) at **Vivekananda Global University** (NAAC A+) · CGPA **8.73
 
 <br/>
 
-### 📈 Overview & Languages
+### 📈 Stats & Languages
 
 <a href="https://github.com/Shyamsundar2203?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api?username=Shyamsundar2203&show_icons=true&hide_rank=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&title_color=A78BFA&icon_color=22D3EE&text_color=E2D9F3&bg_color=0D1117&cache_seconds=1800" height="165" alt="GitHub Stats"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Shyamsundar2203&theme=tokyonight" height="165" alt="Stats"/>
 </a>
-&nbsp;&nbsp;
+&nbsp;
 <a href="https://github.com/Shyamsundar2203?tab=repositories">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Shyamsundar2203&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&title_color=A78BFA&text_color=E2D9F3&bg_color=0D1117&cache_seconds=1800" height="165" alt="Top Languages"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Shyamsundar2203&theme=tokyonight" height="165" alt="Top Languages"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/Shyamsundar2203?tab=repositories">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Shyamsundar2203&theme=tokyonight" width="100%" alt="Profile Details"/>
 </a>
 
 <br/>
@@ -249,3 +255,4 @@ current_focus = {
 📍 Jaipur, Rajasthan, India
 
 </div>
+
